@@ -29,5 +29,5 @@ Send me a coffee in ETH: `0x9A5DfB9Ec517042D372403962547e5468A0f2dDa`
 
 MIT — see [LICENSE](./LICENSE) file.
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/screenshot.webp)
 
