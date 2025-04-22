@@ -1,4 +1,4 @@
-# 🛠 Webp Mini Converter — Minimalist Utility for macOS
+# 🛠 Webp Mini Converter — Minimalist Utility for macOS and Windows
 
 A simple desktop app built with Python, pillow, customtkinter and PyInstaller, packed into a `.dmg`.  
 Clean, fast, and offline. No tracking. No ads. Just useful.
